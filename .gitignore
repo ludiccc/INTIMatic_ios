@@ -1,0 +1,13 @@
+UserInterfaceState.xcuserstate
+build
+*.pbxuser
+*.perspectivev3
+*.mode1v3
+*~
+*~.nib
+*~.xib
+.DS_Store
+xcuserdata/
+bin/bkp_captures/
+bin/data/INTIMatic-*
+Screenshot*
