@@ -1,4 +1,7 @@
 /*
+
+ INTIMatic por Federico Joselevich Puiggros e "Intimidad Romero" se encuentra bajo una Licencia Creative Commons Atribución 3.0 Unported.
+ 
  This code was developed by Federico Joselevich Puiggros <f@ludic.cc>
  www.ludic.cc
  
