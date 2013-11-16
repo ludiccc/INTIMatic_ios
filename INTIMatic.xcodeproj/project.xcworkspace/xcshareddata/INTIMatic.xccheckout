@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>59BC2B69-FE44-4947-BD6A-3D87600632EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>INTIMatic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>46DB0E9C-DE50-4E19-BF33-047056390C1A</key>
+		<string>https://github.com/pokeb/asi-http-request.git</string>
+		<key>B143DBB9-872D-4658-B04A-65D19B72D4B5</key>
+		<string>git://github.com/arturoc/ofxHttpUtils</string>
+		<key>D833179C-65FC-49B8-8997-45FC534DABF6</key>
+		<string>ssh://github.com/ludiccc/INTIMatic_ios.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>INTIMatic.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>46DB0E9C-DE50-4E19-BF33-047056390C1A</key>
+		<string>../../../../../../../asi-http-request</string>
+		<key>B143DBB9-872D-4658-B04A-65D19B72D4B5</key>
+		<string>../../../../../addons/ofxHttpUtils</string>
+		<key>D833179C-65FC-49B8-8997-45FC534DABF6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/ludiccc/INTIMatic_ios.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D833179C-65FC-49B8-8997-45FC534DABF6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>46DB0E9C-DE50-4E19-BF33-047056390C1A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>asi-http-request</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D833179C-65FC-49B8-8997-45FC534DABF6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>INTIMatic</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B143DBB9-872D-4658-B04A-65D19B72D4B5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxHttpUtils</string>
+		</dict>
+	</array>
+</dict>
+</plist>
